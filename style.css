@@ -353,10 +353,3 @@ color: -webkit-linear-gradient(to right, #283E51, #4B79A1);  /* Chrome 10-25, Sa
 color: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   }
-
-
-  a {
-    text-decoration: none;
-    color: inherit;
-    display: inline-block;
-}
